@@ -11,3 +11,5 @@ Ingenieria Industrial presencial
 Jacobo Salazar Gallego
 1061046067
 Ingenieria Industrial Presencial
+## Video entrega 2
+https://youtu.be/m3UP-dWZANs
